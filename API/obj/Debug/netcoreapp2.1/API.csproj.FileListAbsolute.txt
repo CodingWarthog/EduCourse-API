@@ -1,0 +1,75 @@
+C:\Projekty\API\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\Projekty\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\Projekty\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\Projekty\API\API\bin\Debug\netcoreapp2.1\API.dll
+C:\Projekty\API\API\bin\Debug\netcoreapp2.1\API.pdb
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.dll
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\API.pdb
+C:\Projekty\API\API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projekty\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\Projekty\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\Projekty\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\Projekty\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.dll
+C:\Projekty\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.pdb
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.dll
+C:\Projekty\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-01-06\Test2\API-25-04\API 25-04\API\API\obj\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\bin\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-01-06\api\API\API\obj\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\bin\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,17 @@
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.TestXUnit.deps.json
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.TestXUnit.runtimeconfig.json
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.TestXUnit.runtimeconfig.dev.json
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.TestXUnit.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.TestXUnit.pdb
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\bin\Debug\netcoreapp2.1\API.pdb
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.csprojAssemblyReference.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.csproj.CoreCompileInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.AssemblyInfoInputs.cache
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.AssemblyInfo.cs
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.csproj.CopyComplete
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.dll
+D:\WAT\semestr8\mobilki\projekt\api-11-06\api\API\API.TestXUnit\obj\Debug\netcoreapp2.1\API.TestXUnit.pdb

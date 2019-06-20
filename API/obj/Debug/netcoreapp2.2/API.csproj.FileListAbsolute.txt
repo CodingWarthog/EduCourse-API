@@ -1,0 +1,28 @@
+H:\TIM\API\API\API\API\bin\Debug\netcoreapp2.2\API.deps.json
+H:\TIM\API\API\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+H:\TIM\API\API\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+H:\TIM\API\API\API\API\bin\Debug\netcoreapp2.2\API.dll
+H:\TIM\API\API\API\API\bin\Debug\netcoreapp2.2\API.pdb
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.dll
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.pdb
+H:\TIM\API\API\API\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\bin\Debug\netcoreapp2.2\API.dll
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.dll
+D:\WAT\semestr 8\mobilki\projekt\api 25-04\na azura\API\API\API\obj\Debug\netcoreapp2.2\API.pdb

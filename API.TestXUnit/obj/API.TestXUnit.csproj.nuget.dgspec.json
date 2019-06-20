@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API.TestXUnit\\API.TestXUnit.csproj": {}
+  },
+  "projects": {
+    "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API.TestXUnit\\API.TestXUnit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API.TestXUnit\\API.TestXUnit.csproj",
+        "projectName": "API.TestXUnit",
+        "projectPath": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API.TestXUnit\\API.TestXUnit.csproj",
+        "packagesPath": "C:\\Users\\Pumba\\.nuget\\packages\\",
+        "outputPath": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API.TestXUnit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pumba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API\\API.csproj": {
+                "projectPath": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API\\API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Pumba\\.nuget\\packages\\",
+        "outputPath": "D:\\WAT\\semestr8\\mobilki\\projekt\\api-11-06\\api\\API\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pumba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.4.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
